@@ -2,7 +2,7 @@ L'applicativo consiglia all'utente un elenco di canzoni da ascoltare in base all
 
 Per accedere al servizio è necessario essere autenticati su Spotify, dunque il primo controllo viene effettuato proprio sull'accesso eseguito.
 
-Per ottenere l'elenco di canzoni suggerite, è necessario insrire il CAP della località desiderata. La richiesta ad OpenWeather indicherà la situazione metereologica e suggerirà 10 canzoni da ascoltare. Le canzoni vengono selezionate da una playlist specifica, sceltra tra quelle disponibili su Spotify. E' possibile cliccare su ciasun titolo per avere il link alla riproduzione.
+Per ottenere l'elenco di canzoni suggerite, è necessario inserire il CAP della località desiderata. La richiesta ad OpenWeather restituirà la situazione metereologica e l'applicativo suggerirà 10 canzoni da ascoltare. Le canzoni vengono selezionate da una playlist specifica, sceltra tra quelle disponibili su Spotify. E' possibile cliccare su ciascun titolo per avere il link alla riproduzione.
 
 ---
 
